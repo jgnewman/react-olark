@@ -19,6 +19,8 @@ ReactDOM.render(
 , document.getElementById('root'));
 ```
 
+**Note that you _should not_ use the Olark JavaScript snippet on your page if you are using react-olark because it will be automatically generated for you.**
+
 ## Options
 
 Olark allows you to to [configure your chatbox](https://www.olark.com/api) in lots of cool ways. These mainly come in the form of "system" configurations and "locale" configurations. System values change how the chatbox does things and locale values allow you to customize text strings for use with different languages.
