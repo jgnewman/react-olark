@@ -6,6 +6,12 @@
   "repository": "git@github.com:jgnewman/react-olark",
   "author": "John Newman <rescuecreative@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "olark",
+    "component",
+    "chat"
+  ],
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-cli": "^6.24.0",
